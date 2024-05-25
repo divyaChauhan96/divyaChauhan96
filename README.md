@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on React Js and Next Js
 - 🌱 I’m currently learning MERN stack and GCP
 - 👯 I’m looking to collaborate on Frontend/Fullstack projects
-- 📫 How to reach me: Drop an email to - divya2309c@gmail.com
+- 📫 How to reach me: <a href="mailto:divya2309c@gmail.com">Drop an email</a>
 
 <!--
 **divyaChauhan96/divyaChauhan96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
