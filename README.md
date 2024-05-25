@@ -1,4 +1,10 @@
-## Hello 👋 I am Divya
+<h1>Hello 👋 I am Divya</h1>
+<h2>A passionate Software developer</h2>
+
+- 🔭 I’m currently working on React Js and Next Js
+- 🌱 I’m currently learning MERN stack and GCP
+- 👯 I’m looking to collaborate on Frontend/Fullstack projects
+- 📫 How to reach me: Drop an email to - divya2309c@gmail.com
 
 <!--
 **divyaChauhan96/divyaChauhan96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
